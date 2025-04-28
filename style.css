@@ -1,14 +1,7 @@
-
-* {
-    background-color: blueviolet;
-}
-
+/* General Styles */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 50px;
-    padding-right: 150px;
-}
-
-header {
-    background-color: fuchsia;
+    margin: 0px;
+    padding: 0px;
+    background-color: blueviolet;
 }
